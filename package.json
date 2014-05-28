@@ -1,0 +1,28 @@
+{
+  "name": "alignNconquer",
+  "version": "0.1.0",
+  "description": "alignNconquer =============",
+  "main": "run.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kristw/alignNconquer.git"
+  },
+  "author": "@kristw",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/kristw/alignNconquer/issues"
+  },
+  "homepage": "https://github.com/kristw/alignNconquer",
+  "devDependencies": {
+    "mocha": "~1.19.0"
+  },
+  "dependencies": {
+    "lodash": "~2.4.1"
+  }
+}
